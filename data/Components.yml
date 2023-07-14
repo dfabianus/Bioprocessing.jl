@@ -1,0 +1,8 @@
+O2:
+  Description: Oxygen
+  MolarMass: 32.0
+
+
+Strains:
+  - Escherichia_Coli_BL21DE3:
+

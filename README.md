@@ -6,6 +6,8 @@
 [![Coverage](https://codecov.io/gh/dfabianus/Bioprocessing.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/dfabianus/Bioprocessing.jl)
 [![Coverage](https://coveralls.io/repos/github/dfabianus/Bioprocessing.jl/badge.svg?branch=master)](https://coveralls.io/github/dfabianus/Bioprocessing.jl?branch=master)
 
+# test
+- catalyst.jl
 
 # Functionality of this package
 - Bioprocess model library

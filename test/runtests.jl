@@ -1,7 +1,10 @@
 using Bioprocessing
 using Test
 
+include("../src/BioreactorDynamics.jl")
+println(data)
+
 @testset "Bioprocessing.jl" begin
     # Write your tests here.
-    @test HelloWorld3() == "Hello World!3"
+
 end

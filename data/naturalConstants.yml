@@ -1,0 +1,12 @@
+xOAIR: 
+  value: 0.2094
+  unit: dimensionless
+  description: Oxygen in air
+xCAIR: 
+  value: 0.0004
+  unit: dimensionless
+  description: Carbon dioxide in air
+VnM: 
+  value: 22.414
+  unit: L/mol
+  description: Molar volume of ideal gas at 298.15 K and 101.325 kPa
